@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Senior Software Developers
 - 🤔 I’m looking for help with Open-Source Project
 - 📫 How to reach me: https://twitter.com/iamgabrielsoft
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love Fruit...
 
 
