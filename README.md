@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Sketch
-- 👯 I’m looking to collaborate on Senior Software Developers
+- 👯 I’m looking to collaborate with other Software Developers
 - 🤔 I’m looking for help with Open-Source Project
 - 📫 How to reach me: https://twitter.com/iamgabrielsoft
 - ⚡ Fun fact: I love Fruit...
